@@ -47,7 +47,3 @@ php artisan serve
 ```
 
 You're ready to go! Visit website in your browser at http://localhost:8000, and enjoy laravel authentication with react using inertia.
-
-# Contributing
-
-Thank you for considering contributing to UI! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
