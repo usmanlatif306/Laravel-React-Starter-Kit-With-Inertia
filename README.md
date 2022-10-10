@@ -1,6 +1,8 @@
-# Laravel Inertia With React Starter Kit
+# Laravel 8 Inertia With React Starter Kit
 
-Inertia is a new approach to building classic server-driven web apps. We call it the modern monolith. Inertia allows you to create fully client-side rendered, single-page apps, without much of the complexity that comes with modern SPAs. It does this by leveraging existing server-side frameworks. This installation contain laravel auth integration with laravel ui with react.
+Inertia is a new approach to building classic server-driven web apps. We call it the modern monolith. Inertia allows you to create fully client-side rendered, single-page apps, without much of the complexity that comes with modern SPAs. It does this by leveraging existing server-side frameworks.
+
+This installation contain laravel auth integration with laravel ui with react. We all have need to use user panel. This instalattion will save your time to integrate authentication with user panel. This installation has build in authentication with skydash admin panel view.
 
 ## Installation
 
